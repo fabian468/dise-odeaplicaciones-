@@ -1,0 +1,36 @@
+Problemas Encargada del Dae problematica: 
+
+
+Problema: 
+	Desinformación con los materiales deportivo y no se que mas para su respectiva reserva.
+
+
+solución: 
+
+	web app con información en tiempo real, con condigo QR para que al escannear desplegue información de q  , real con chat.
+
+
+
+Herramientas que se usaran para tomar los requerimientos: Entrevista
+
+
+Entrevista a encargada: 
+	- Cua
+	
+	
+
+
+
+
+
+
+yo como supervisora necesito tener informacion sobre los accesorios de deporte que esten disponibles para poder reservarlos a los usuarios. 
+
+
+yo como usuario necesito saber la diponibildad de reservar la cancha por un horario establecido.
+  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ Problemas info turismos: 

@@ -34,3 +34,6 @@ yo como usuario necesito saber la diponibildad de reservar la cancha por un hora
 
 
  Problemas info turismos: 
+ 
+ 
+audiotour: codigos QR en todos los monumentos de la serena el cual al escanear desplega la informacion en audio del monumento.
